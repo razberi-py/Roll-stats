@@ -1,6 +1,5 @@
 # Interactive Simulation Suite
 
-![Simulation Banner](https://via.placeholder.com/800x200.png?text=Interactive+Simulation+Suite)
 
 ## Description
 
